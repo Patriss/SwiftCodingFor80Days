@@ -34,6 +34,6 @@ Importante: Debes motivar a otros para que hagan este desafío en Twitter u otra
 Si encontras algo genial, algo que pueda ayudar a todos, haz un Pull Request para añadirlo al repo o tuitealo.
 Nota
 
-¿Preguntas? Al Twitter de: @juanmorillios
+¿Preguntas? Al Twitter de: @SwiftCode80Days
 Si te gusta este repositorio considera forkear y mejorar;
 Si tenes más información de más recursos, por favor, informanos :)
