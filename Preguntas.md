@@ -26,9 +26,9 @@ No te preocupes tampoco por llegar a Github en ese día particular. Sí, sería 
 
 **Q:**: Si todos empiezan en un día X, ¿debería unirme en el día donde ellos están? Por ejemplo, ellos están en el día 12. **A:**: El desafío es individual, cuando quieras puedes empezar. Cuando publiques en tus redes usando #SwiftCodingFor80Days asegurate de poner en que día vas, así las personas sabrán donde están para que pueda ayudarte.
 
-Contenidos
+## Contenidos
 
-Reglas
-Diario - click aquí para ver tu progreso
-FAQ
-Recursos
+* [Reglas](Reglas.md)
+* [Diario](MiDiario.md) 
+* [Preguntas](Preguntas.md)
+* [Recursos](Recursos.md)
