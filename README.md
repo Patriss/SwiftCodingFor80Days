@@ -35,6 +35,6 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 
 ## Nota
 
-> - ¿Preguntas? Al Twitter de: @SwiftCode80Days
+> - ¿Preguntas? Al Twitter de: [@SwiftCode80Days](https://twitter.com/SwiftCode80Days)
 > - Si te gusta este repositorio considera forkear y mejorar;
 > - Si tenes más información de más recursos, por favor, informanos :)
