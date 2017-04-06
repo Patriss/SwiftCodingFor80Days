@@ -8,10 +8,10 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 
 ## Contenido
 
-> - Reglas
-> - Diario - click aquí para ver mi progreso
-> - FAQ
-> - Recursos
+> - [Reglas]()
+> - [Diario]() - click aquí para ver mi progreso
+> - [FAQ]()
+> - [Recursos]()
 
 ## Si quieres unirte:
 
