@@ -13,3 +13,7 @@
 > - [Diario](https://github.com/juanmorillios/SwiftCodingFor80Days/blob/master/Mi-Diario) 
 > - [Preguntas](https://github.com/juanmorillios/SwiftCodingFor80Days/blob/master/Preguntas)
 > - [Recursos](https://github.com/juanmorillios/SwiftCodingFor80Days/edit/master/Recursos)
+
+## Más recursos
+
+¿Conoces más recursos que puedan ayudar a seguir programando? ¡También queremos saber! ¡Comparte tu sabiduría con nosotros!
