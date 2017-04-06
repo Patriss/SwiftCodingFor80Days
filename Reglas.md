@@ -2,7 +2,7 @@
 
 ## PRINCIPAL REGLA
 
-Voy a programar por lo menos UNA hora al día por los próximos 80 días
+#Voy a programar por lo menos UNA hora al día por los próximos 80 días
 
 #### Fecha de inicio
 
