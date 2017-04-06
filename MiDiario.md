@@ -22,7 +22,7 @@ Link a mi trabajo: To-Do-List)
 
 Day 1: Mayo 10, 2017
 
-Progreso del día: Trabajé en algunos ejercicios de The Swift Programming Language (Swift 3.1)
+Progreso del día: Trabajé en algunos ejercicios de Swift Programming Language (Swift 3.1)
 .
 
 Opiniones Reciénte: he iniciado mi camino hacia la buena programación de códigos en el nuevo lenguaje de programación Swift, me se siente bien ir aprendiendo en el camino. Cada día me vuelvo mejor.
