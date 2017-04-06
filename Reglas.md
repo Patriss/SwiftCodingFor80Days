@@ -1,4 +1,4 @@
-# Reglas para el desafio de los 80 días de programación en Swift
+# Reglas para el desafio 80 días de programación en Swift
 
 ## PRINCIPAL REGLA
 
