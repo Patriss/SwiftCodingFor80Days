@@ -15,16 +15,17 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 
 ## Si quieres unirte:
 
-[^Debes leer Join the #SwiftCodingFor80Days]: [Debes leer Join the #SwiftCodingFor80Days]
+> - Debes leer Join the #SwiftCodingFor80Days
 
-Forkea este repositorio y cambia el Diario diariamente. Ejemplo.
+> - Forkea este repositorio y cambia el Diario diariamente. Ejemplo.
 
-Programar como mínimo una hora por los próximos 80 días.
+> - ## Programar como mínimo una hora por los próximos 80 días.
 
-Cambiar la fecha de las reglas al día que iniciaste el desafío.
+> - Cambiar la fecha de las reglas al día que iniciaste el desafío.
 
-Borra todos los ejemplos del diario, comentarios y empieza a llenarlo con tu contenido.
-Tuitea tu progreso usando #SwiftCodingFor80Days
+> - Borra todos los ejemplos del diario, comentarios y empieza a llenarlo con tu contenido.
+
+> -Tuitea tu progreso usando #SwiftCodingFor80Days
 
 Sigue a @SwiftCode80Days Twitter Bot que retuitea todo lo referente a las personas que usan #SwiftCodingFor80Days. Es una buena manera de hacer un seguimiento y mantenerte motivado. 
 
