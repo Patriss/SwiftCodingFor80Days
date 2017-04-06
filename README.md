@@ -1,6 +1,6 @@
 # Me he unido al desafío - SwiftCodingFor80Days.
 
-## El desafío consiste en durar 80 días programando con el lenguaje de programación Swift. La idea está inspirada en el proyecto original 100-days-of-code.
+## El desafío consiste en durar 80 días programando con el lenguaje de programación Swift. Inspiración en el proyecto original 100-days-of-code.
 
 Join the chat at https://swiftcodingfor80days.slack.com
 
