@@ -16,17 +16,17 @@ Voy a programar por lo menos UNA hora al día por los próximos 80 días
 
 3. Pondré mi progreso en Github todos los días para que todos puedan ver mi progreso.
 
-4. Mantendré actualizado mi Diario con todos los datos necesarios para que otros vean mi progreso.
+4. Mantendré actualizado mi [Diario](MiDiario.md) con todos los datos necesarios para que otros vean mi progreso.
 
-5. Trabajaré en proyectos reales, con desafios reales. El tiempo que gaste haciendo tutoriales, cursos online y otros NO CUENTA como desafio. (Si recién empezas a programar ve a FAQ)
+5. Trabajaré en proyectos reales, con desafios reales. El tiempo que gaste haciendo tutoriales, cursos online y otros NO CUENTA como desafio. (Si recién empezas a programar ve a [Preguntas](Preguntas.md))
 
 ## Ideas para hacer el desafio más efectivo
 
 1. Si quieres incrementar las chances de éxito, es un requisito que añadis un link cada día al post de tu [diario](MiDiario.md). Puede ser un link de Github, link a un post de un blog también.
 
-2. ¿Atascado? Lee este artículo: Learning to Code: When It Gets Dark
+2. ¿Atascado? Lee este artículo: [https://swiftlang.eu](https://swiftlang.eu)
 
-3. Si aún no sabes si quieres hacer proyectos o tutoriales o cursos online, lee este artículo: How to Get a Developer Job in Less Than a Year
+3. Si aún no sabes si quieres hacer proyectos o tutoriales o cursos online, lee este artículo: [Como convertirte en Programador iOS](https://www.efectoapple.com/como-convertirte-en-desarrollador-ios/)
 
 4. Si no puedes poner tu progreso en Github por alguna razón (recién empezaste a hacer ejercicios interactivos), provee de un link a un tuit. Puedes pensar en algo más siempre y cuando el desafio sea público.
 
