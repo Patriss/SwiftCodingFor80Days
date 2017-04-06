@@ -35,6 +35,6 @@ Voy a programar por lo menos UNA hora al día por los próximos 80 días
 ## Contenidos
 
 * [Reglas](Reglas.md)
-* [Diario](Diario.md) 
+* [Diario](Mi-diario.md) 
 * [Preguntas](Preguntas.md)
 * [Recursos](Recursos.md)
