@@ -8,9 +8,9 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 
 ## Contenido
 
-> - [Reglas]()
-> - [Diario]() - click aquí para ver mi progreso
-> - [FAQ]()
+> - [Reglas](https://github.com/juanmorillios/SwiftCodingFor80Days/blob/master/Reglas)
+> - [Diario](https://github.com/juanmorillios/SwiftCodingFor80Days/blob/master/Mi-Diario) 
+> - [FAQ](https://github.com/juanmorillios/SwiftCodingFor80Days/blob/master/Preguntas)
 > - [Recursos]()
 
 ## Si quieres unirte:
