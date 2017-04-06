@@ -22,7 +22,7 @@ Voy a programar por lo menos UNA hora al día por los próximos 80 días
 
 ## Ideas para hacer el desafio más efectivo
 
-1. Si quieres incrementar las chances de éxito, es un requisito que añadis un link cada día al post de tu [diario](Mi-diario.md). Puede ser un link de Github, link a un post de un blog también.
+1. Si quieres incrementar las chances de éxito, es un requisito que añadis un link cada día al post de tu [diario](MiDiario.md). Puede ser un link de Github, link a un post de un blog también.
 
 2. ¿Atascado? Lee este artículo: Learning to Code: When It Gets Dark
 
@@ -35,6 +35,6 @@ Voy a programar por lo menos UNA hora al día por los próximos 80 días
 ## Contenidos
 
 * [Reglas](Reglas.md)
-* [Diario](Mi-diario.md) 
+* [Diario](MiDiario.md) 
 * [Preguntas](Preguntas.md)
 * [Recursos](Recursos.md)
