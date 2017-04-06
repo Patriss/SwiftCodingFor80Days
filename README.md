@@ -25,15 +25,16 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 
 > - Borra todos los ejemplos del diario, comentarios y empieza a llenarlo con tu contenido.
 
-> -Tuitea tu progreso usando #SwiftCodingFor80Days
+> - Tuitea tu progreso usando #SwiftCodingFor80Days
 
-Sigue a @SwiftCode80Days Twitter Bot que retuitea todo lo referente a las personas que usan #SwiftCodingFor80Days. Es una buena manera de hacer un seguimiento y mantenerte motivado. 
+> - Sigue a @SwiftCode80Days Twitter Bot que retuitea todo lo referente a las personas que usan #SwiftCodingFor80Days. Es una buena manera de hacer un seguimiento y mantenerte motivado. 
 
-Importante: Debes motivar a otros para que hagan este desafío en Twitter u otra red social dandole los datos necesarios para que puedan también hacer algún progreso, apoyandoles en esos momentos de dificultad. Así es como se construye una comunidad, lo cual será un éxito más grande.
+> - Importante: Debes motivar a otros para que hagan este desafío en Twitter u otra red social dandole los datos necesarios para que puedan también hacer algún progreso, apoyandoles en esos momentos de dificultad. Así es como se construye una comunidad, lo cual será un éxito más grande.
 
-Si encontras algo genial, algo que pueda ayudar a todos, haz un Pull Request para añadirlo al repo o tuitealo.
-Nota
+> - Si encontras algo genial, algo que pueda ayudar a todos, haz un Pull Request para añadirlo al repo o tuitealo.
 
-¿Preguntas? Al Twitter de: @SwiftCode80Days
-Si te gusta este repositorio considera forkear y mejorar;
-Si tenes más información de más recursos, por favor, informanos :)
+## Nota
+
+> - ¿Preguntas? Al Twitter de: @SwiftCode80Days
+> - Si te gusta este repositorio considera forkear y mejorar;
+> - Si tenes más información de más recursos, por favor, informanos :)
