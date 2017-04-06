@@ -15,7 +15,7 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 
 ## Si quieres unirte:
 
-[^stackedit] Debes leer Join the #SwiftCodingFor80Days
+[^Debes leer Join the #SwiftCodingFor80Days]: [Debes leer Join the #SwiftCodingFor80Days]
 
 Forkea este repositorio y cambia el Diario diariamente. Ejemplo.
 
