@@ -8,13 +8,13 @@ Join the chat at https://swiftcodingfor80days.slack.com
 
 Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 
-##Contenido
+## Contenido
 
-#Reglas
-#Diario - click aquí para ver mi progreso
-#FAQ
-#Recursos
-#Si quieres unirte:
+# Reglas
+# Diario - click aquí para ver mi progreso
+# FAQ
+# Recursos
+# Si quieres unirte:
 
 Debes leer Join the #SwiftCodingFor80Days
 
