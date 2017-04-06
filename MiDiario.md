@@ -1,6 +1,6 @@
-## Swift Coding For 80 Days - Diario
+# Swift Coding For 80 Days - Diario
 
-# Day 0: Abril 10, 2017 (Ejemplo 1)
+## Day 0: Abril 10, 2017 (Ejemplo 1)
 
 (Borrame o comentame algo)
 
