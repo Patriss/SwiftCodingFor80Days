@@ -6,6 +6,7 @@
 3. [The powerful programming language](https://developer.apple.com/swift/)
 4. [Libro Official en Itunes](https://itunes.apple.com/es/book/the-swift-programming-language-swift-3-1/id881256329?mt=11&ign-mpt=uo%3D4)
 5. [Learning Swift. Reusable apps code.](https://github.com/CarlosEngr/Swift)
+6. ][awesome-swift](https://github.com/matteocrippa/awesome-swift)
 
 
 ## Contenido
