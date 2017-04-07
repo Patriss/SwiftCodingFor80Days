@@ -14,7 +14,9 @@
 
 **Q:**: Me perdí un día. ¿Fallé el desafío? A: Para nada. Está permitido de hecho perderte un día (pero agregale un día más a los 80 días), pero nunca pierdas dos días seguidos. Mejor aún, para que esto no te suceda constuye un hábito de programar todos los días.
 
-**Q:**: Llego tarde a mi casa, y cuando termino ya es pasada medianoche. ¿Cuenta aún como un día? A: Por supuesto que cuenta. Recuerda que lo importante es haber programado por lo menos una hora al día antes de ir a dormir. Si lo hiciste, estás por buen camino. Todos tenemos ocupaciones y agendas diferentes (escuela, universidad, chicos que cuidar, lo que sea que debas hacer) así que no te hagas problemas por una hora arbitraria. No experimentarás nada como Cenicienta una vez que el reloj de medianoche.
+**Q:**: Llego tarde a mi casa, y cuando termino ya es pasada medianoche. ¿Cuenta aún como un día? 
+
+**A:** Por supuesto que cuenta. Recuerda que lo importante es haber programado por lo menos una hora al día antes de ir a dormir. Si lo hiciste, estás por buen camino. Todos tenemos ocupaciones y agendas diferentes (escuela, universidad, chicos que cuidar, lo que sea que debas hacer) así que no te hagas problemas por una hora arbitraria. No experimentarás nada como Cenicienta una vez que el reloj de medianoche.
 
 No te preocupes tampoco por llegar a Github en ese día particular. Sí, sería lo ideal tener todo a hora pero no te limites a servir al reloj.
 
@@ -22,7 +24,8 @@ No te preocupes tampoco por llegar a Github en ese día particular. Sí, sería 
 
 **A:**: Sería lo ideal que mantengas en el [Diario](MiDiario.md) todos los días. Esto te ayudará de dos formas: podrás ver tus progresos todos los días y será mucho más fácil encontrar una motivación para continuar. La segunda es que cuando acabes los 80 días, analizarás esta experiencia desde una mejor perspectiva, viendo que fue lo mejor y que fue lo peor.
 
-**Q:**: ¿Debo poner mis proyectos online? A: Definitivamente. Será mejor para mejorar y motivar a otros con tus trabajos. Será también mejor por que así mejorarás la calidad de tu presentación. Recomendación: puedes ponerlo en GitHub.
+**Q:**: ¿Debo poner mis proyectos online? 
+**A:** Definitivamente. Será mejor para mejorar y motivar a otros con tus trabajos. Será también mejor por que así mejorarás la calidad de tu presentación. Recomendación: puedes ponerlo en GitHub.
 
 **Q:**: ¿Debo mantenerme a raya siempre?
 
