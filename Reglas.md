@@ -22,7 +22,7 @@
 
 ## Ideas para hacer el desafio más efectivo
 
-1. Si quieres incrementar las chances de éxito, es un requisito que añadis un link cada día al post de tu [diario](MiDiario.md). Puede ser un link de Github, link a un post de un blog también.
+1. Si quieres incrementar los chances de éxito, es un requisito que añadir un link cada día al post de tu [diario](MiDiario.md). Puede ser un link de Github, link a un post de un blog también.
 
 2. ¿Atascado? Lee este artículo: [https://swiftlang.eu](https://swiftlang.eu)
 
