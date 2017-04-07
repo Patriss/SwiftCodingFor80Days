@@ -20,20 +20,25 @@
 
 No te preocupes tampoco por llegar a Github en ese día particular. Sí, sería lo ideal tener todo a hora pero no te limites a servir al reloj.
 
-**Q:**: ¿Debería mantener un diario?
+**Q:** ¿Debería mantener un diario?
 
-**A:**: Sería lo ideal que mantengas en el [Diario](MiDiario.md) todos los días. Esto te ayudará de dos formas: podrás ver tus progresos todos los días y será mucho más fácil encontrar una motivación para continuar. La segunda es que cuando acabes los 80 días, analizarás esta experiencia desde una mejor perspectiva, viendo que fue lo mejor y que fue lo peor.
+**A:** Sería lo ideal que mantengas en el [Diario](MiDiario.md) todos los días. Esto te ayudará de dos formas: podrás ver tus progresos todos los días y será mucho más fácil encontrar una motivación para continuar. La segunda es que cuando acabes los 80 días, analizarás esta experiencia desde una mejor perspectiva, viendo que fue lo mejor y que fue lo peor.
 
-**Q:**: ¿Debo poner mis proyectos online? 
+**Q:** ¿Debo poner mis proyectos online? 
+
 **A:** Definitivamente. Será mejor para mejorar y motivar a otros con tus trabajos. Será también mejor por que así mejorarás la calidad de tu presentación. Recomendación: puedes ponerlo en GitHub.
 
-**Q:**: ¿Debo mantenerme a raya siempre?
+**Q:** ¿Debo mantenerme a raya siempre?
 
-**A:**: Mantener un límite es siempre bueno y ayuda mucho pero como mencionamos anteriormente: no te preocupes demasiado por el tiempo y no te critiques por perder un día. Deberías, sin embargo, tomar medidas para que no pierdas ningún día. Sé conciente que tirar malos pensamientos hacia uno no ayuda demasiado y trae consigo siempre resultados negativos. Lo mejor que puedes hacer para que desaparezca toda negatividad es sentarte y empezar a programar.
+**A:** Mantener un límite es siempre bueno y ayuda mucho pero como mencionamos anteriormente: no te preocupes demasiado por el tiempo y no te critiques por perder un día. Deberías, sin embargo, tomar medidas para que no pierdas ningún día. Sé conciente que tirar malos pensamientos hacia uno no ayuda demasiado y trae consigo siempre resultados negativos. Lo mejor que puedes hacer para que desaparezca toda negatividad es sentarte y empezar a programar.
 
-**Q:**: ¿Cuál es la parte más dificil de este desafío? A: La parte donde te sientas y empezas a programar. No pospongas nada. Hazlo por que quieres: sientate, abre tu notebook, abre el editor, programa. Luego de 5 minutos de empezar a hacerlo, perderas ese deseo de procastinar.
+**Q:** ¿Cuál es la parte más dificil de este desafío? 
 
-**Q:**: Si todos empiezan en un día X, ¿debería unirme en el día donde ellos están? Por ejemplo, ellos están en el día 12. **A:**: El desafío es individual, cuando quieras puedes empezar. Cuando publiques en tus redes usando #SwiftCodingFor80Days asegurate de poner en que día vas, así las personas sabrán donde están para que pueda ayudarte.
+**A:** La parte donde te sientas y empezas a programar. No pospongas nada. Hazlo por que quieres: sientate, abre tu notebook, abre el editor, programa. Luego de 5 minutos de empezar a hacerlo, perderas ese deseo de procastinar.
+
+**Q:**: Si todos empiezan en un día X, ¿debería unirme en el día donde ellos están? Por ejemplo, ellos están en el día 12.
+
+**A:**: El desafío es individual, cuando quieras puedes empezar. Cuando publiques en tus redes usando #SwiftCodingFor80Days asegurate de poner en que día vas, así las personas sabrán donde están para que puedan ayudarte.
 
 ## Contenidos
 
