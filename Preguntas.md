@@ -1,6 +1,7 @@
 ## Preguntas:
 
 **Q:**: ¿Como puedo mantenerme en contacto con las personas que también están haciendo este desafío?
+
 **A:**: Busca #SwiftCodingFor80Days en Twitter, unete en Slack the SwiftCodingFor80Days room on [Grupo Slack](https://swiftcodingfor80days.slack.com), ingresa y únete. Seguír a [@SwiftCode80Days](https://twitter.com/SwiftCode80Days) en Twitter.
 
 **Q:**: Ya inicié el desafío y estoy actualmente en el día 8. ¿Como puedo usar este repositorio para guardar mi progreso? **A:**: No te preocupes. Guarda tanta información como puedas pero si no se puede, continua desde allí mismo. Si estuviste tuiteando sobre tu progreso, puedes presentar los links de los tuits de cada día. Luego, empieza a seguir el formato.
