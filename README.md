@@ -8,10 +8,10 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 
 ## Contenido
 
-> - [Reglas](Reglas)
-> - [Diario](Mi-Diario) 
-> - [Preguntas](Preguntas)
-> - [Recursos](Recursos)
+> - [Reglas](Reglas.md)
+> - [Diario](Mi-Diario.md) 
+> - [Preguntas](Preguntas.md)
+> - [Recursos](Recursos.md)
 
 ## Si quieres unirte:
 
