@@ -1,14 +1,14 @@
 ## Preguntas:
 
-**Q:**: ¿Como puedo mantenerme en contacto con las personas que también están haciendo este desafío?
+**Q:** ¿Como puedo mantenerme en contacto con las personas que también están haciendo este desafío?
 
-**A:**: Busca #SwiftCodingFor80Days en Twitter, unete en Slack the SwiftCodingFor80Days room on [Grupo Slack](https://swiftcodingfor80days.slack.com), ingresa y únete. Seguír a [@SwiftCode80Days](https://twitter.com/SwiftCode80Days) en Twitter.
+**A:** Busca #SwiftCodingFor80Days en Twitter, unete en Slack the SwiftCodingFor80Days room on [Grupo Slack](https://swiftcodingfor80days.slack.com), ingresa y únete. Seguír a [@SwiftCode80Days](https://twitter.com/SwiftCode80Days) en Twitter.
 
-**Q:**: Ya inicié el desafío y estoy actualmente en el día 8. ¿Como puedo usar este repositorio para guardar mi progreso?
+**Q:** Ya inicié el desafío y estoy actualmente en el día 8. ¿Como puedo usar este repositorio para guardar mi progreso?
 
-**A:**: No te preocupes. Guarda tanta información como puedas pero si no se puede, continua desde allí mismo. Si estuviste tuiteando sobre tu progreso, puedes presentar los links de los tuits de cada día. Luego, empieza a seguir el formato.
+**A:** No te preocupes. Guarda tanta información como puedas pero si no se puede, continua desde allí mismo. Si estuviste tuiteando sobre tu progreso, puedes presentar los links de los tuits de cada día. Luego, empieza a seguir el formato.
 
-**Q:**: Soy nuevo en esto de hacer programación (o no me estoy decidiendo) y no puedo construir proyectos aún. ¿Cómo debo hacer? 
+**Q:** Soy nuevo en esto de hacer programación (o no me estoy decidiendo) y no puedo construir proyectos aún. ¿Cómo debo hacer? 
 
 **A:**: Lo mejor que puedes hacer es iniciar en la página oficial [The Swift Programming Language (Swift 3.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309), existen muchos cursos y libros sobre Swift en internet, cualquier recurso que elijas estará bien, pero recomendamos la web oficial. Mientras más lejos llegues durante los 80 días, mejor.
 
