@@ -10,11 +10,11 @@
 
 **Q:** Soy nuevo en esto de hacer programación (o no me estoy decidiendo) y no puedo construir proyectos aún. ¿Cómo debo hacer? 
 
-**A:**: Lo mejor que puedes hacer es iniciar en la página oficial [The Swift Programming Language (Swift 3.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309), existen muchos cursos y libros sobre Swift en internet, cualquier recurso que elijas estará bien, pero recomendamos la web oficial. Mientras más lejos llegues durante los 80 días, mejor.
+**A:** Lo mejor que puedes hacer es iniciar en la página oficial [The Swift Programming Language (Swift 3.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309), existen muchos cursos y libros sobre Swift en internet, cualquier recurso que elijas estará bien, pero recomendamos la web oficial. Mientras más lejos llegues durante los 80 días, mejor.
 
-**Q:**: Me perdí un día. ¿Fallé el desafío? A: Para nada. Está permitido de hecho perderte un día (pero agregale un día más a los 80 días), pero nunca pierdas dos días seguidos. Mejor aún, para que esto no te suceda constuye un hábito de programar todos los días.
+**Q:** Me perdí un día. ¿Fallé el desafío? A: Para nada. Está permitido de hecho perderte un día (pero agregale un día más a los 80 días), pero nunca pierdas dos días seguidos. Mejor aún, para que esto no te suceda constuye un hábito de programar todos los días.
 
-**Q:**: Llego tarde a mi casa, y cuando termino ya es pasada medianoche. ¿Cuenta aún como un día? 
+**Q:** Llego tarde a mi casa, y cuando termino ya es pasada medianoche. ¿Cuenta aún como un día? 
 
 **A:** Por supuesto que cuenta. Recuerda que lo importante es haber programado por lo menos una hora al día antes de ir a dormir. Si lo hiciste, estás por buen camino. Todos tenemos ocupaciones y agendas diferentes (escuela, universidad, chicos que cuidar, lo que sea que debas hacer) así que no te hagas problemas por una hora arbitraria. No experimentarás nada como Cenicienta una vez que el reloj de medianoche.
 
@@ -36,9 +36,9 @@ No te preocupes tampoco por llegar a Github en ese día particular. Sí, sería 
 
 **A:** La parte donde te sientas y empezas a programar. No pospongas nada. Hazlo por que quieres: sientate, abre tu notebook, abre el editor, programa. Luego de 5 minutos de empezar a hacerlo, perderas ese deseo de procastinar.
 
-**Q:**: Si todos empiezan en un día X, ¿debería unirme en el día donde ellos están? Por ejemplo, ellos están en el día 12.
+**Q:** Si todos empiezan en un día X, ¿debería unirme en el día donde ellos están? Por ejemplo, ellos están en el día 12.
 
-**A:**: El desafío es individual, cuando quieras puedes empezar. Cuando publiques en tus redes usando #SwiftCodingFor80Days asegurate de poner en que día vas, así las personas sabrán donde están para que puedan ayudarte.
+**A:** El desafío es individual, cuando quieras puedes empezar. Cuando publiques en tus redes usando #SwiftCodingFor80Days asegurate de poner en que día vas, así las personas sabrán donde están para que puedan ayudarte.
 
 ## Contenidos
 
