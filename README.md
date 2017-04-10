@@ -9,7 +9,7 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 ## Contenido
 
 > - [Reglas](Reglas.md)
-> - [Diario](Mi-Diario.md) 
+> - [Diario](MiDiario.md) 
 > - [Preguntas](Preguntas.md)
 > - [Recursos](Recursos.md)
 
