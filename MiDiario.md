@@ -5,3 +5,6 @@
 **Progreso del día**: Día 01/80, #SwiftCodingFor80Days creación repositorio en GitHub de la aplicación a crear, #MSDG
 
 **Opiniones**: Por fin ya he podido empezar el desafío, muy ilusionado y motivado.
+
+### Day 2: Abril 25, 2017 
+**Progreso del día**: Día 02/80, #SwiftCodingFor80Days :  UI-UX of App, incorporación SplashScreen + icon, inicio del proyecto en xCode … 
