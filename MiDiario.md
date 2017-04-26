@@ -8,3 +8,6 @@
 
 ### Day 2: Abril 25, 2017 
 **Progreso del día**: Día 02/80, #SwiftCodingFor80Days :  UI-UX of App, incorporación SplashScreen + icon, inicio del proyecto en xCode … 
+
+### Day 3: Abril 26, 2017 
+**Progreso del día**: Día 03/80, #SwiftCodingFor80Days : creación MVC Model, estructura de la aplicación aplicando TabBar Control como navegación principal.
