@@ -11,3 +11,7 @@
 
 ### Day 3: Abril 26, 2017 
 **Progreso del día**: Día 03/80, #SwiftCodingFor80Days : creación MVC Model, estructura de la aplicación aplicando TabBar Control como navegación principal.
+
+
+### Day 4: Abril 27, 2017 
+**Progreso del día**: Día 04/80, #SwiftCodingFor80Days : creación interface de la aplicación, TabBarController + NavigationController para la navegación.
