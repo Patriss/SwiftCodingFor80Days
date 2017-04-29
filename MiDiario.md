@@ -20,3 +20,6 @@
 ### Day 5: Abril 28, 2017 
 
 **Progreso del día**: Día 05/80, #SwiftCodingFor80Days :  continuación en la creación estructura datos + UX-Design in Sketch, #MSDG
+
+### Day 6: Abril 29, 2017 
+**Progreso del día**: Día 06/80  #SwiftCodingFor80Days : User Interface de la App lista, trabajando en xCode con #Tables #Views #TabBar #NavigationBar
