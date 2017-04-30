@@ -23,3 +23,6 @@
 
 ### Day 6: Abril 29, 2017 
 **Progreso del día**: Día 06/80  #SwiftCodingFor80Days : User Interface de la App lista, trabajando en xCode con #Tables #Views #TabBar #NavigationBar
+
+### Day 7: Abril 30, 2017 
+**Progreso del día**: Día 07/80  #SwiftCodingFor80Days : He estado trabajando con las diferentes clases de la que formarán parte del proyecto.
