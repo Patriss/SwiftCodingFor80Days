@@ -26,3 +26,6 @@
 
 ### Day 7: Abril 30, 2017 
 **Progreso del día**: Día 07/80  #SwiftCodingFor80Days : He estado trabajando con las diferentes clases de la que formarán parte del proyecto.
+
+### Day 8: MAyo 01, 2017 
+**Progreso del día**: Día 08/80  #SwiftCodingFor80Days : He estado trabajando con la elección de persistencia de datos del proyecto.
