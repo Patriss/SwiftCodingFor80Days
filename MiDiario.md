@@ -32,3 +32,7 @@
 
 ### Day 9: Mayo 02, 2017 
 **Progreso del día**: Día 09/80  #SwiftCodingFor80Days : Trabajando en la base global de proyecto, clases + métodos + funciones.
+
+
+### Day 10: Mayo 03, 2017 
+**Progreso del día**: Día 10/80  #SwiftCodingFor80Days : Finalizando de crear la UI-UX en xCode, aplicando Autolayout.
