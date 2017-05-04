@@ -36,3 +36,6 @@
 
 ### Day 10: Mayo 03, 2017 
 **Progreso del día**: Día 10/80  #SwiftCodingFor80Days : Finalizando de crear la UI-UX en xCode, aplicando Autolayout.
+
+### Day 11: Mayo 04, 2017 
+**Progreso del día**: Día 11/80  #SwiftCodingFor80Days : UI-UX en xCode lista, ahora falta crear conexiones IBOutlets y Actions.
