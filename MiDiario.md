@@ -42,3 +42,7 @@
 
 ### Day 12: Mayo 05, 2017 
 **Progreso del día**: Día 12/80  #SwiftCodingFor80Days : Segundo día aplicanto Autolayouts a la interface de la aplicación.
+
+### Day 13: Mayo 06, 2017 
+**Progreso del día**: Día 13/80  #SwiftCodingFor80Days : Add Views-TableViews-Delegates
+
