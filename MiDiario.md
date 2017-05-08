@@ -47,5 +47,8 @@
 **Progreso del día**: Día 13/80  #SwiftCodingFor80Days : Add Views-TableViews-Delegates.
 
 ### Day 14: Mayo 07, 2017 
-**Progreso del día**: Día 14/80  #SwiftCodingFor80Days : Add Assets to TabBarController + Struct of DataModel
+**Progreso del día**: Día 14/80  #SwiftCodingFor80Days : Add Assets to TabBarController + Struct of DataModel. 
+
+### Day 15: Mayo 07, 2017 
+**Progreso del día**: Día 15/80  #SwiftCodingFor80Days : Prototyping app, add TableViews + controllers etc...
 
