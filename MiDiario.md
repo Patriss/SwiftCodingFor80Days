@@ -55,3 +55,6 @@
 ### Day 16: Mayo 09, 2017 
 **Progreso del día**: Día 16/80  #SwiftCodingFor80Days : Creación conexiones, IBActions, IBOutlets.
 
+### Day 17: Mayo 10, 2017 
+**Progreso del día**: Día 17/80  #SwiftCodingFor80Days : Aplicando Autolayout y restriciones.
+
