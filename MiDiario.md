@@ -63,3 +63,6 @@
 ### Day 19: Mayo 12, 2017 
 **Progreso del día**: Día 19/80  #SwiftCodingFor80Days : 2do. día trabajando con clases y funciones, conexiones, IBActions, IBOutlets y definición de la lógica de la aplicación.
 
+### Day 20: Mayo 13, 2017 
+**Progreso del día**: Día 20/80  #SwiftCodingFor80Days : Realizando ajustes, cambios, modificaciónes, estudiando algunos conceptos para aplicarlo a la aplicación.
+
