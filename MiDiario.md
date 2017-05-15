@@ -67,5 +67,9 @@
 **Progreso del día**: Día 20/80  #SwiftCodingFor80Days : Realizando ajustes, cambios, modificaciónes, estudiando algunos conceptos para aplicarlo a la aplicación.
 
 ### Day 21: Mayo 14, 2017 
-**Progreso del día**: Día 21/80  #SwiftCodingFor80Days : Trabajando on mapas y geolocalización.
+**Progreso del día**: Día 21/80  #SwiftCodingFor80Days : Dia1 - Trabajando con mapas y geolocalización.
+
+### Day 22: Mayo 15, 2017 
+**Progreso del día**: Día 22/80  #SwiftCodingFor80Days : Dia2 -  Trabajando con mapas y geolocalización.
+
 
