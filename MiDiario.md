@@ -72,4 +72,7 @@
 ### Day 22: Mayo 15, 2017 
 **Progreso del día**: Día 22/80  #SwiftCodingFor80Days : Dia2 -  Trabajando con mapas y geolocalización.
 
+### Day 23: Mayo 16, 2017 
+**Progreso del día**: Día 23/80  #SwiftCodingFor80Days : Dia2 -  Trabajando con clases y funciones, vistas.
+
 
