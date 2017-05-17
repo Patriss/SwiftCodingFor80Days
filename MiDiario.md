@@ -75,4 +75,7 @@
 ### Day 23: Mayo 16, 2017 
 **Progreso del día**: Día 23/80  #SwiftCodingFor80Days : Trabajando con clases y funciones, vistas.
 
+### Day 24: Mayo 17, 2017 
+**Progreso del día**: Día 24/80  #SwiftCodingFor80Days : Manipulando objetos en CoreData, entidades.
+
 
