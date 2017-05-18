@@ -78,4 +78,6 @@
 ### Day 24: Mayo 17, 2017 
 **Progreso del día**: Día 24/80  #SwiftCodingFor80Days : Manipulando objetos en CoreData, entidades.
 
+### Day 25: Mayo 18, 2017 
+**Progreso del día**: Día 25/80  #SwiftCodingFor80Days : Trabajando en la elaboración de la base de datos.
 
