@@ -81,3 +81,6 @@
 ### Day 25: Mayo 18, 2017 
 **Progreso del día**: Día 25/80  #SwiftCodingFor80Days : Trabajando en la elaboración de la base de datos.
 
+### Day 26: Mayo 19, 2017 
+**Progreso del día**: Día 26/80  #SwiftCodingFor80Days : Trabajando CoreData, Modelo de datos, Clases, Funciones y métodos.
+
