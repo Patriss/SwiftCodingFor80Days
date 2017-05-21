@@ -87,3 +87,6 @@
 ### Day 27: Mayo 20, 2017 
 **Progreso del día**: Día 27/80  #SwiftCodingFor80Days : Trabajando con tablas, clases, persistencia de datos.
 
+### Day 28: Mayo 21, 2017 
+**Progreso del día**: Día 28/80  #SwiftCodingFor80Days : Trabajando con la interface de la aplicación, agregando actualizaciones.
+
