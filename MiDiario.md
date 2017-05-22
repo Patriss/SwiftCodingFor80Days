@@ -90,3 +90,6 @@
 ### Day 28: Mayo 21, 2017 
 **Progreso del día**: Día 28/80  #SwiftCodingFor80Days : Trabajando con la interface de la aplicación, agregando actualizaciones.
 
+### Day 29: Mayo 22, 2017 
+**Progreso del día**: Día 29/80  #SwiftCodingFor80Days :  + Clases + IBOutlets + Conexiones.
+
