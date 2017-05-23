@@ -93,3 +93,6 @@
 ### Day 29: Mayo 22, 2017 
 **Progreso del día**: Día 29/80  #SwiftCodingFor80Days :  + Clases + IBOutlets + Conexiones.
 
+### Day 30: Mayo 23, 2017 
+**Progreso del día**: Día 30/80  #SwiftCodingFor80Days :  Trabajando con MapKit, CLLocationCoordinate2D, tables and views.
+
