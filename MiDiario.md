@@ -99,3 +99,5 @@
 ### Day 31: Mayo 24, 2017 
 **Progreso del día**: Día 31/80  #SwiftCodingFor80Days :  2do. día trabajando con MapKit, CLLocationCoordinate2D, tables and views.
 
+### Day 32: Mayo 25, 2017 
+**Progreso del día**: Día 32/80  #SwiftCodingFor80Days :  Trabajando con el diseño de la interface + actualización código.
