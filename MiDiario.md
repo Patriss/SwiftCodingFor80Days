@@ -101,3 +101,7 @@
 
 ### Day 32: Mayo 25, 2017 
 **Progreso del día**: Día 32/80  #SwiftCodingFor80Days :  Trabajando con el diseño de la interface + actualización código.
+
+### Day 33: Mayo 26, 2017 
+**Progreso del día**: Día 33/80  #SwiftCodingFor80Days :  Trabajando con Storyboard, Views, UILabel, Outlets y Actions.
+
