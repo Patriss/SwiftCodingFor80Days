@@ -105,3 +105,6 @@
 ### Day 33: Mayo 26, 2017 
 **Progreso del día**: Día 33/80  #SwiftCodingFor80Days :  Trabajando con Storyboard, Views, UILabel, Outlets y Actions.
 
+### Day 34: Mayo 27, 2017 
+**Progreso del día**: Día 34/80  #SwiftCodingFor80Days :  Outlets y Actions, ViewController + Class.
+
