@@ -108,3 +108,7 @@
 ### Day 34: Mayo 27, 2017 
 **Progreso del día**: Día 34/80  #SwiftCodingFor80Days :  Outlets y Actions, ViewController + Class.
 
+
+### Day 35: Mayo 28, 2017 
+**Progreso del día**: Día 35/80  #SwiftCodingFor80Days :  Working with Material Design para toda la vistas de la app.
+
