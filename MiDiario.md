@@ -112,3 +112,7 @@
 ### Day 35: Mayo 28, 2017 
 **Progreso del día**: Día 35/80  #SwiftCodingFor80Days :  Working with Material Design para toda la vistas de la app.
 
+### Day 36: Mayo 29, 2017 
+**Progreso del día**: Día 36/80  #SwiftCodingFor80Days :  Working with MapKit and UITableViews.
+
+
