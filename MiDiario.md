@@ -115,4 +115,7 @@
 ### Day 36: Mayo 29, 2017 
 **Progreso del día**: Día 36/80  #SwiftCodingFor80Days :  Working with MapKit and UITableViews.
 
+### Day 37: Mayo 30, 2017 
+**Progreso del día**: Día 37/80  #SwiftCodingFor80Days :  Day - 2 working with MapKit and UITableViews.
+
 
