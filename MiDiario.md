@@ -122,6 +122,9 @@
 **Progreso del día**: Día 38/80  #SwiftCodingFor80Days :  Working with views, tables and coding.
 
 ### Day 39: Junio 01, 2017 
-**Progreso del día**: Día 39/80  #SwiftCodingFor80Days :  Trabajando con Autolayout, constrain, Trait variations
+**Progreso del día**: Día 39/80  #SwiftCodingFor80Days :  Trabajando con Autolayout, constrain, Trait variations Working with User Interface and api of App.
+
+### Day 40: Junio 02, 2017 
+**Progreso del día**: Día 40/80  #SwiftCodingFor80Days :  Working with User Interface and api of App.
 
 
