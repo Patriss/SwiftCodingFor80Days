@@ -130,4 +130,7 @@
 ### Day 41: Junio 03, 2017 
 **Progreso del día**: Día 41/80  #SwiftCodingFor80Days :  Working with User Interface and api of App día 2.
 
+### Day 42: Junio 04, 2017 
+**Progreso del día**: Día 42/80  #SwiftCodingFor80Days :  Working with Protocol and Delegates.
+
 
