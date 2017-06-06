@@ -133,4 +133,5 @@
 ### Day 42: Junio 04, 2017 
 **Progreso del día**: Día 42/80  #SwiftCodingFor80Days :  Working with Protocol and Delegates.
 
-
+### Day 43: Junio 06, 2017 
+**Progreso del día**: Día 43/80  #SwiftCodingFor80Days :  Working with AutoLayout.
