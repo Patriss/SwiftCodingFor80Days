@@ -137,4 +137,7 @@
 **Progreso del día**: Día 43/80  #SwiftCodingFor80Days :  Working with AutoLayout.
 
 ### Day 44: Junio 07, 2017 
-**Progreso del día**: Día 44/80  #SwiftCodingFor80Days :  Working with TableViews and Fake Data.
+**Progreso del día**: Día 44/80  #SwiftCodingFor80Days :  Working with TableViews and Fake Data.  
+
+### Day 45: Junio 08, 2017 
+**Progreso del día**: Día 45/80  #SwiftCodingFor80Days :  Working with code of app.
