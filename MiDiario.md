@@ -141,3 +141,7 @@
 
 ### Day 45: Junio 08, 2017 
 **Progreso del día**: Día 45/80  #SwiftCodingFor80Days :  Working with code of app.
+
+### Day 46: Junio 09, 2017 
+**Progreso del día**: Día 46/80  #SwiftCodingFor80Days :  Working with class and functions.
+
