@@ -145,3 +145,6 @@
 ### Day 46: Junio 09, 2017 
 **Progreso del día**: Día 46/80  #SwiftCodingFor80Days :  Working with class and functions.
 
+### Day 47: Junio 10, 2017 
+**Progreso del día**: Día 47/80  #SwiftCodingFor80Days :  Working with class and functions 2.
+
