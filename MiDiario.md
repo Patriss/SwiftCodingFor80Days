@@ -148,3 +148,6 @@
 ### Day 47: Junio 10, 2017 
 **Progreso del día**: Día 47/80  #SwiftCodingFor80Days :  Working with class and functions 2.
 
+### Day 48: Junio 11, 2017 
+**Progreso del día**: Día 48/80  #SwiftCodingFor80Days :  Working with Protocol and Delegates.
+
