@@ -151,3 +151,7 @@
 ### Day 48: Junio 11, 2017 
 **Progreso del día**: Día 48/80  #SwiftCodingFor80Days :  Working with Protocol and Delegates.
 
+### Day 49: Junio 12, 2017 
+**Progreso del día**: Día 49/80  #SwiftCodingFor80Days :  Working with tableviews and delegates.
+
+
