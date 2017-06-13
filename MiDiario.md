@@ -154,4 +154,7 @@
 ### Day 49: Junio 12, 2017 
 **Progreso del día**: Día 49/80  #SwiftCodingFor80Days :  Working with tableviews and delegates.
 
+### Day 50: Junio 13, 2017 
+**Progreso del día**: Día 50/80  #SwiftCodingFor80Days :  Update Class and Data of App.
+
 
