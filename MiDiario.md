@@ -157,4 +157,7 @@
 ### Day 50: Junio 13, 2017 
 **Progreso del día**: Día 50/80  #SwiftCodingFor80Days :  Update Class and Data of App.
 
+### Day 51: Junio 14, 2017 
+**Progreso del día**: Día 51/80  #SwiftCodingFor80Days :  Trabajando CoreData, Modelo de dato.
+
 
