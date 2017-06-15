@@ -160,4 +160,7 @@
 ### Day 51: Junio 14, 2017 
 **Progreso del día**: Día 51/80  #SwiftCodingFor80Days :  Trabajando CoreData, Modelo de dato.
 
+### Day 52: Junio 15, 2017 
+**Progreso del día**: Día 52/80  #SwiftCodingFor80Days :  Trabajando CoreData, Modelo de dato 2.
+
 
