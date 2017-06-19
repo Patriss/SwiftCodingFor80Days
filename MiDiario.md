@@ -169,4 +169,7 @@
 ### Day 54: Junio 17, 2017 
 **Progreso del día**: Día 54/80  #SwiftCodingFor80Days :  Trabajando Autolayout + Constraints día 2.
 
+### Day 55: Junio 18, 2017 
+**Progreso del día**: Día 55/80  #SwiftCodingFor80Days :  Update Class and functions
+
 
