@@ -172,7 +172,7 @@
 ### Day 55: Junio 18, 2017 
 **Progreso del día**: Día 55/80  #SwiftCodingFor80Days :  Update Class and functions
 
-### Day 56: Junio 19, 2017 
+### Day 56: Junio 20, 2017 
 **Progreso del día**: Día 56/80  #SwiftCodingFor80Days :  Working with class and functions 2
 
 
