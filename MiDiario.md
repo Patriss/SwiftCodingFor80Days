@@ -175,7 +175,9 @@
 ### Day 56: Junio 20, 2017 
 **Progreso del día**: Día 56/80  #SwiftCodingFor80Days :  Working with class and functions 2
 
-
 ### Day 57: Junio 21, 2017 
 **Progreso del día**: Día 57/80  #SwiftCodingFor80Days :  Working with Mapkit
+
+### Day 58: Junio 22, 2017 
+**Progreso del día**: Día 87/80  #SwiftCodingFor80Days :  Working with UI
 
