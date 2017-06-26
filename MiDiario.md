@@ -179,7 +179,7 @@
 **Progreso del día**: Día 57/80  #SwiftCodingFor80Days :  Working with Mapkit
 
 ### Day 58: Junio 22, 2017 
-**Progreso del día**: Día 59/80  #SwiftCodingFor80Days :  Working with UI
+**Progreso del día**: Día 58/80  #SwiftCodingFor80Days :  Working with UI
 
 ### Day 59: Junio 25, 2017 
 **Progreso del día**: Día 59/80  #SwiftCodingFor80Days :  Working with UI and data.
