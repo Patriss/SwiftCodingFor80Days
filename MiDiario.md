@@ -187,3 +187,7 @@
 ### Day 60: Junio 26, 2017 
 **Progreso del día**: Día 60/80  #SwiftCodingFor80Days :  Trabajando con labels, alerts y functions.
 
+### Day 61: Junio 27, 2017 
+**Progreso del día**: Día 61/80  #SwiftCodingFor80Days :  Add some Class to manage Map.
+
+
