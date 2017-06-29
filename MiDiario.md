@@ -190,4 +190,7 @@
 ### Day 61: Junio 27, 2017 
 **Progreso del día**: Día 61/80  #SwiftCodingFor80Days :  Add some Class to manage Map.
 
+### Day 62: Junio 29, 2017 
+**Progreso del día**: Día 62/80  #SwiftCodingFor80Days :  Working with  Maps and CLocations
+
 
