@@ -193,4 +193,7 @@
 ### Day 62: Junio 29, 2017 
 **Progreso del día**: Día 62/80  #SwiftCodingFor80Days :  Working with  Maps and CLocations
 
+### Day 63: Julio 02, 2017 
+**Progreso del día**: Día 63/80  #SwiftCodingFor80Days :  Working with ViewController and Delegates
+
 
