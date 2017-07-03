@@ -196,4 +196,7 @@
 ### Day 63: Julio 02, 2017 
 **Progreso del día**: Día 63/80  #SwiftCodingFor80Days :  Working with ViewController and Delegates
 
+### Day 64: Julio 03, 2017 
+**Progreso del día**: Día 64/80  #SwiftCodingFor80Days :  Working With CoreData.
+
 
