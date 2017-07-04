@@ -199,4 +199,7 @@
 ### Day 64: Julio 03, 2017 
 **Progreso del día**: Día 64/80  #SwiftCodingFor80Days :  Working With CoreData.
 
+### Day 65: Julio 04, 2017 
+**Progreso del día**: Día 65/80  #SwiftCodingFor80Days :  Working With CoreData2.
+
 
