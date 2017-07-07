@@ -205,4 +205,7 @@
 ### Day 66: Julio 06, 2017 
 **Progreso del día**: Día 66/80  #SwiftCodingFor80Days :  Working with Model of data from API.
 
+### Day 67: Julio 07, 2017 
+**Progreso del día**: Día 66/80  #SwiftCodingFor80Days :  Working with Class and Structs
+
 
