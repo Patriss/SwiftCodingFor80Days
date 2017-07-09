@@ -210,3 +210,6 @@
 
 ### Day 68: Julio 08, 2017 
 **Progreso del día**: Día 68/80  #SwiftCodingFor80Days :  Trabajando con clases e inicializadores.
+
+### Day 69: Julio 09, 2017 
+**Progreso del día**: Día 69/80  #SwiftCodingFor80Days :  Working with design of tables.
