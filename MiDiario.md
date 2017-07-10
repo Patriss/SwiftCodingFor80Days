@@ -213,3 +213,6 @@
 
 ### Day 69: Julio 09, 2017 
 **Progreso del día**: Día 69/80  #SwiftCodingFor80Days :  Working with design of tables.
+
+### Day 70: Julio 10, 2017 
+**Progreso del día**: Día 70/80  #SwiftCodingFor80Days :  Working with Firebase to save info of navigation.
