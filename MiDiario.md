@@ -216,3 +216,6 @@
 
 ### Day 70: Julio 10, 2017 
 **Progreso del día**: Día 70/80  #SwiftCodingFor80Days :  Working with Firebase to save info of navigation.
+
+### Day 71: Julio 11, 2017 
+**Progreso del día**: Día 71/80  #SwiftCodingFor80Days :  Trabajando con la navegación Principal
