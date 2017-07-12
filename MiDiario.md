@@ -219,3 +219,6 @@
 
 ### Day 71: Julio 11, 2017 
 **Progreso del día**: Día 71/80  #SwiftCodingFor80Days :  Trabajando con la navegación Principal
+
+### Day 72: Julio 11, 2017 
+**Progreso del día**: Día 72/80  #SwiftCodingFor80Days :  Working with Arrays 
