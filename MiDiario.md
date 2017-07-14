@@ -225,3 +225,6 @@
 
 ### Day 73: Julio 13, 2017 
 **Progreso del día**: Día 73/80  #SwiftCodingFor80Days :  Trabajando con animaciones.
+
+### Day 74: Julio 14, 2017 
+**Progreso del día**: Día 74/80  #SwiftCodingFor80Days :  Trabajando con celdas y diccionarios.
