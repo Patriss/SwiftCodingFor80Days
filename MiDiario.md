@@ -230,4 +230,4 @@
 **Progreso del día**: Día 74/80  #SwiftCodingFor80Days :  Trabajando con celdas y diccionarios.
 
 ### Day 75: Julio 15, 2017 
-**Progreso del día**: Día 75/80  #SwiftCodingFor80Days :  Trabajando con modelo de datos y geoloacilación
+**Progreso del día**: Día 75/80  #SwiftCodingFor80Days :  Trabajando con modelo de datos y geolacilación
