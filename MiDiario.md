@@ -232,5 +232,5 @@
 ### Day 75: Julio 15, 2017 
 **Progreso del día**: Día 75/80  #SwiftCodingFor80Days :  Trabajando con modelo de datos y geolacilación
 
-### Day 76: Julio 16, 2017 
+### Day 76: Julio 17, 2017 
 **Progreso del día**: Día 76/80  #SwiftCodingFor80Days :  Working with TabBarController and NavigationBarController
