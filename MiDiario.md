@@ -234,3 +234,6 @@
 
 ### Day 76: Julio 17, 2017 
 **Progreso del día**: Día 76/80  #SwiftCodingFor80Days :  Working with TabBarController and NavigationBarController
+
+### Day 77: Julio 18, 2017 
+**Progreso del día**: Día 77/80  #SwiftCodingFor80Days :  Trabajando con la capa de Conexión
