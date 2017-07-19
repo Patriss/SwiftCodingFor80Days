@@ -237,3 +237,6 @@
 
 ### Day 77: Julio 18, 2017 
 **Progreso del día**: Día 77/80  #SwiftCodingFor80Days :  Trabajando con la capa de Conexión
+
+### Day 78: Julio 19, 2017 
+**Progreso del día**: Día 78/80  #SwiftCodingFor80Days :  Working with Protocol and Delegation
