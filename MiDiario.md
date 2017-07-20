@@ -240,3 +240,6 @@
 
 ### Day 78: Julio 19, 2017 
 **Progreso del día**: Día 78/80  #SwiftCodingFor80Days :  Working with Protocol and Delegation
+
+### Day 79: Julio 20, 2017 
+**Progreso del día**: Día 79/80  #SwiftCodingFor80Days :  Working with Protocol Day 2
