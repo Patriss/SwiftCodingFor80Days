@@ -243,3 +243,6 @@
 
 ### Day 79: Julio 20, 2017 
 **Progreso del día**: Día 79/80  #SwiftCodingFor80Days :  Working with Protocol Day 2
+
+### Day 80: Julio 20, 2017 
+**Progreso del día**: Día 80/80  #SwiftCodingFor80Days :  Trabajando los detalles finales de la App 
